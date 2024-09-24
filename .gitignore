@@ -21,6 +21,7 @@ npm-debug.log
 yarn-error.log
 .eslintcache
 .vscode
+.yarn/*
 
 # scripts
 scripts/release-notes.py
